@@ -9,5 +9,6 @@ Apache Kafka is an open-source stream-processing software platfor for ral-time f
 
 start zookeper server 
 bin/zookeeper-server-start.sh config/zookeeper.properties
+
 start kafka server
 bin/kafka-server-start.sh config/server.properties
